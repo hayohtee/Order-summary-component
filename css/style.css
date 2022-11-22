@@ -72,6 +72,10 @@ main {
     font-weight: 500;
 }
 
+.plan a:hover, .plan a:focus {
+    text-decoration: none;
+}
+
 .button {
     display: block;
     text-decoration: none;
