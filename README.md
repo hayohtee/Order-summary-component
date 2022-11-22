@@ -56,6 +56,6 @@ I want to explore the following areas for my continuous development:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Github - [Olamilekan Akintilebo](https://github.com/hayohtee)
+- Frontend Mentor - [@hayohtee](https://www.frontendmentor.io/profile/hayohtee)
+- Twitter - [@hayohtee](https://www.twitter.com/hayohtee)
