@@ -10,6 +10,7 @@ body {
     background-image: url(../images/pattern-background-mobile.svg);
     background-repeat: no-repeat;
     font-family: "Red Hat Display", sans-serif;
+    background-size: contain;
     font-size: 16px;
     background-color: hsl(225, 100%, 94%);
     min-height: 100vh;
